@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 Rust and Solidity developer working in several open source projects: 
 
-**Hyperledger Grid** : looking into leveraging DLTs for supply chain management (SCM) 
-**SSID**: Looking into developing new dynamic ways to store sensitive data and query responses seamlessly and highly encypted, adopting ZK SNARKS 
+**Hyperledger Grid** : looking into leveraging DLTs for supply chain management (SCM)\ 
+**SSID**: Looking into developing new dynamic ways to store sensitive data and query responses seamlessly and highly encypted, adopting ZK SNARKS\
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackofClubz)](https://github.com/anuraghazra/github-readme-stats)
