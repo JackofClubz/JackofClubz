@@ -23,5 +23,4 @@ Rust and Solidity developer working in several open source projects:
 **SSID**: Looking into developing new dynamic ways to store sensitive data and query responses seamlessly and highly encypted, adopting ZK SNARKS<br />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackofClubz)](https://github.com/anuraghazra/github-readme-stats)
 
