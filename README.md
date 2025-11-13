@@ -22,5 +22,5 @@ Try to build secure systems for pricavy preserving machine learning or DeFi. Pri
 **FHE CUDA Optimization** : looking to optimize privacy-preserving machine-learning with NVidia chips, mostly just CUDA optimization)<br />
 **SSID**: Looking into developing new dynamic ways to store sensitive data and query responses seamlessly and highly encypted, adopting ZK SNARKS<br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackofClubz)](https://github.com/anuraghazra/github-readme-stats)
+
 
