@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Open source Blockchain Researcher 
+# Cryptography and Blockchain Engineer
 
-Rust and Solidity developer working in several open source projects: 
+Try to build secure systems for pricavy preserving machine learning or DeFi. Primarily in Rust and Python. Systems include Polkadot, Solana, Ethereum and some AI training platforms. Also build my own agents sometimes - Langchain enthusiast. 
 
-**Hyperledger Grid** : looking into leveraging DLTs for supply chain management (SCM)<br />
+**FHE CUDA Optimization** : looking to optimize privacy-preserving machine-learning with NVidia chips, mostly just CUDA optimization)<br />
 **SSID**: Looking into developing new dynamic ways to store sensitive data and query responses seamlessly and highly encypted, adopting ZK SNARKS<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackofClubz)](https://github.com/anuraghazra/github-readme-stats)
